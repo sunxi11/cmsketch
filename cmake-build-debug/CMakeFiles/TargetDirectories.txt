@@ -1,0 +1,3 @@
+C:/Users/DELL/Desktop/c-sketch/cmake-build-debug/CMakeFiles/c_sketch.dir
+C:/Users/DELL/Desktop/c-sketch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Desktop/c-sketch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

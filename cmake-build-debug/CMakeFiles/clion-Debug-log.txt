@@ -1,0 +1,4 @@
+"D:\soft\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/soft/CLion 2022.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\DELL\Desktop\c-sketch -B C:\Users\DELL\Desktop\c-sketch\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/DELL/Desktop/c-sketch/cmake-build-debug

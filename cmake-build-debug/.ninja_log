@@ -1,0 +1,11 @@
+# ninja log v5
+114	466	7006832233795633	c_sketch.exe	e8d850dba0b4a22a
+1	93	7006819120435796	CMakeFiles/c_sketch.dir/main.c.obj	3897c629d40d379e
+1	113	7006832232043532	CMakeFiles/c_sketch.dir/test.c.obj	ada83c498dd85b5a
+2	1299	7006842903919661	build.ninja	dcaf9babf4a9c717
+2	236	7006787804849528	CMakeFiles/c_sketch.dir/cmsketch/cmsketch.c.obj	60ecb873d2c139d
+1	1375	7006842903919661	build.ninja	dcaf9babf4a9c717
+3	445	7006844636865019	CMakeFiles/c_sketch.dir/main.c.obj	3897c629d40d379e
+446	1003	7006844642636764	c_sketch.exe	5fe77b39f927c811
+4	143	7006844877809511	CMakeFiles/c_sketch.dir/main.c.obj	3897c629d40d379e
+144	250	7006844879193644	c_sketch.exe	5fe77b39f927c811
